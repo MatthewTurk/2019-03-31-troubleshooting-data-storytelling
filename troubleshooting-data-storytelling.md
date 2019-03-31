@@ -8,16 +8,6 @@
 
 ---
 
-## Learning Objectives
-
-* Understand data as a source of story
-* Understand and analyze basic data sets
-* Understand storytelling concepts
-* Utilize data visualization toolkits at a basic level
-* Tell well-evidenced stories
-
----
-
 <iframe width="1024" height="576"
 src="https://www.youtube.com/embed/In72QAQJ1tY?rel=0" frameborder="0"
 allow="encrypted-media" allowfullscreen></iframe>
